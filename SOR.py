@@ -6,7 +6,7 @@ solutionArrayBase[0]=1 #Updating the first entry to 1
 solutionArrayBase[49]=1 #Updating the last entry to 1
 initialConditionArray=[0]*50 #Array of 50 element where each entry is 0
 
-#Diagnalizing the matrix by 5
+#Diagnalizing the matrix by 5 
 np.diag(lengthArrayBase)
 QuestionMatrix = [[0] * len(lengthArrayBase) for _ in range(len(lengthArrayBase))]
 for i, e in enumerate(lengthArrayBase):
