@@ -7,7 +7,7 @@ def lorenz(x, y, z, sigma, rho, beta):
     differentialZ = x*y - beta*z
     return differentialX, differentialY, differentialZ
 
-# Need one more for the  values
+# Need one more for the  values 
 differentialT = 0.01
 numberSteps = 10000
 X = np.empty(numberSteps + 1)
