@@ -1,4 +1,5 @@
 # Blog Post: https://shahzadaalihassan.com/blog/numerical-analysis/eular-method-for-lorenz-equations
+# Blog Post: https://shahzadaalihassan.com/blog/numerical-analysis/predictor-corrector-methode-for-lorenz-equations
 # Git: https://github.com/HassanAMZ/numerical-analysis/tree/homework-002
 
 import numpy as np
